@@ -54,15 +54,15 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[10.0.13, )"
+              "version": "[10.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
-              "version": "[10.0.13, )"
+              "version": "[10.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[10.0.13, )"
+              "version": "[10.0.14, )"
             }
           },
           "imports": [
